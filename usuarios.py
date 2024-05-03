@@ -1,0 +1,1 @@
+USUARIOS = {"user1":"123","user2":"456"}
