@@ -22,8 +22,8 @@ layout_dashboard =  html.Div([
     ])
 
 app.layout = html.Div([
-    dcc.Location(id="url", refresh=False)
-    html.H1("DashApp"),
+    dcc.Location(id="url", refresh=False),
+    html.H1("Dashapp"),
     html.Div(id="conteudo_pagina")
 ])
 
